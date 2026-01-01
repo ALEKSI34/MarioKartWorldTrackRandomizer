@@ -1,0 +1,152 @@
+[
+  {
+    "name": "Mario Bros. Circuit",
+    "cup": "Mushroom Cup",
+    "difficulty": "150cc"
+  },
+  {
+    "name": "Moo Moo Meadows",
+    "cup": "Mushroom Cup",
+    "difficulty": "150cc"
+  },
+  {
+    "name": "Koopa Troopa Beach",
+    "cup": "Mushroom Cup",
+    "difficulty": "150cc"
+  },
+  {
+    "name": "Peach Beach",
+    "cup": "Mushroom Cup",
+    "difficulty": "150cc"
+  },
+  {
+    "name": "Desert Hills",
+    "cup": "Flower Cup",
+    "difficulty": "150cc"
+  },
+  {
+    "name": "Shy Guy Bazaar",
+    "cup": "Flower Cup",
+    "difficulty": "150cc"
+  },
+  {
+    "name": "Cheep Cheep Falls",
+    "cup": "Flower Cup",
+    "difficulty": "150cc"
+  },
+  {
+    "name": "Peach Stadium",
+    "cup": "Flower Cup",
+    "difficulty": "150cc"
+  },
+  {
+    "name": "Dino Dino Jungle",
+    "cup": "Star Cup",
+    "difficulty": "150cc"
+  },
+  {
+    "name": "Toad's Factory",
+    "cup": "Star Cup",
+    "difficulty": "150cc"
+  },
+  {
+    "name": "DK Pass",
+    "cup": "Star Cup",
+    "difficulty": "150cc"
+  },
+  {
+    "name": "Wario Stadium",
+    "cup": "Star Cup",
+    "difficulty": "150cc"
+  },
+  {
+    "name": "Choco Mountain",
+    "cup": "Special Cup",
+    "difficulty": "150cc"
+  },
+  {
+    "name": "Bowser's Castle",
+    "cup": "Special Cup",
+    "difficulty": "150cc"
+  },
+  {
+    "name": "Rainbow Road",
+    "cup": "Special Cup",
+    "difficulty": "150cc"
+  },
+  {
+    "name": "Wario's Galleon",
+    "cup": "Special Cup",
+    "difficulty": "150cc"
+  },
+  {
+    "name": "Acorn Heights",
+    "cup": "Mushroom Cup Extra",
+    "difficulty": "150cc"
+  },
+  {
+    "name": "Airship Fortress",
+    "cup": "Mushroom Cup Extra",
+    "difficulty": "150cc"
+  },
+  {
+    "name": "Boo Cinema",
+    "cup": "Mushroom Cup Extra",
+    "difficulty": "150cc"
+  },
+  {
+    "name": "Crown City",
+    "cup": "Mushroom Cup Extra",
+    "difficulty": "150cc"
+  },
+  {
+    "name": "Dandelion Depths",
+    "cup": "Flower Cup Extra",
+    "difficulty": "150cc"
+  },
+  {
+    "name": "Dry Bones Burnout",
+    "cup": "Flower Cup Extra",
+    "difficulty": "150cc"
+  },
+  {
+    "name": "Faraway Oasis",
+    "cup": "Flower Cup Extra",
+    "difficulty": "150cc"
+  },
+  {
+    "name": "Great ? Block Ruins",
+    "cup": "Flower Cup Extra",
+    "difficulty": "150cc"
+  },
+  {
+    "name": "DK Spaceport",
+    "cup": "Star Cup Extra",
+    "difficulty": "150cc"
+  },
+  {
+    "name": "Salty Salty Speedway",
+    "cup": "Star Cup Extra",
+    "difficulty": "150cc"
+  },
+  {
+    "name": "Sky-High Sundae",
+    "cup": "Star Cup Extra",
+    "difficulty": "150cc"
+  },
+  {
+    "name": "Starview Peak",
+    "cup": "Star Cup Extra",
+    "difficulty": "150cc"
+  },
+  {
+    "name": "Mario Circuit",
+    "cup": "Special Cup Extra",
+    "difficulty": "150cc"
+  },
+  {
+    "name": "Whistlestop Summit",
+    "cup": "Special Cup Extra",
+    "difficulty": "150cc"
+  }
+]
